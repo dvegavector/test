@@ -1,0 +1,150 @@
+{"data": {
+  "perfList": [
+    {
+    "assetPerf": {
+      "assetInfo": {
+        "id": "7067516",
+        "isin": "FR0011034495",
+        "cranCode": "497204",
+        "name": "EDR FINANCIAL BONDS EUR C",
+        "assetType": "cran_ass_liq_actm",
+        "curry": "EUR",
+        "isBaobab": "true",
+        "iban": "AD23042340923409234023"
+      },
+      "investmentInfo": {
+        "balance": "100000",
+        "buyDate": "2017-05-21",
+        "isSold": "false",
+        "qty": "47.819",
+        "avrgBuyPrice": "135.339928",
+        "avrgMktPrice": "140.62",
+        "gain": {
+          "val": "252.49",
+          "pct": "3.66"
+        },
+        "valuation": {
+          "val": "6724.31",
+          "portfPct": "6.29"
+        },
+        "consolidation": {
+          "gainVal": "5000"
+        }
+      },
+      "perfSmryList": {
+        "perfSmry": [
+          {
+            "@sop": "2017-10-28",
+            "@eop": "2017-10-28",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          },
+          {
+            "@sop": "2017-10-29",
+            "@eop": "2017-10-29",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "assetPerf": {
+      "assetInfo": {
+        "id": "7067516",
+        "isin": "FR0011034495",
+        "cranCode": "609471",
+        "name": "EDR FINANCIAL BONDS EUR C FIJA",
+        "assetType": "cran_ass_renta_fi",
+        "curry": "EUR",
+        "isBaobab": "true",
+        "iban": "AD23042340923409234023"
+      },
+      "investmentInfo": {
+        "buyDate": "2017-05-21",
+        "isSold": "false",
+        "qty": "47.819",
+        "avrgBuyPrice": "135.339928",
+        "avrgMktPrice": "140.62",
+        "gain": {
+          "val": "252.49",
+          "pct": "3.66"
+        },
+        "valuation": {
+          "val": "6724.31",
+          "portfPct": "6.29"
+        },
+        "consolidation": {
+          "gainVal": "5000"
+        }
+      },
+      "perfSmryList": {
+        "perfSmry": [
+          {
+            "@sop": "2017-10-28",
+            "@eop": "2017-10-28",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          },
+          {
+            "@sop": "2017-10-29",
+            "@eop": "2017-10-29",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "assetPerf": {
+      "assetInfo": {
+        "id": "7067516",
+        "isin": "FR0011034495",
+        "cranCode": "497204",
+        "name": "EDR FINANCIAL RENTA FIJA",
+        "assetType": "cran_ass_renta_fi",
+        "curry": "USD",
+        "isBaobab": "true",
+        "iban": "AD23042340923409234023"
+      },
+      "investmentInfo": {
+        "buyDate": "2017-05-21",
+        "isSold": "false",
+        "qty": "47.819",
+        "avrgBuyPrice": "135.339928",
+        "avrgMktPrice": "140.62",
+        "gain": {
+          "val": "252.49",
+          "pct": "3.66"
+        },
+        "valuation": {
+          "val": "6724.31",
+          "portfPct": "6.29"
+        },
+        "consolidation": {
+          "gainVal": "5000"
+        }
+      },
+      "perfSmryList": {
+        "perfSmry": [
+          {
+            "@sop": "2017-10-28",
+            "@eop": "2017-10-28",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          },
+          {
+            "@sop": "2017-10-29",
+            "@eop": "2017-10-29",
+            "portfVal": "107491.10",
+            "profitPct": "4.11"
+          }
+        ]
+      }
+    }
+  }
+  ]
+}
+}
